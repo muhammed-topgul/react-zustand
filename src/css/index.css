@@ -1,0 +1,16 @@
+:root {
+    --COLOR-GRAY: #333333;
+    --COLOR-GRAY-DARK: #222222;
+    --COLOR-GRAY-LIGHT: #CCCCCC;
+    --COLOR-ONGOING: #74aefa;
+    --COLOR-DONE: #66FF50;
+    font-family: "Saira", sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
