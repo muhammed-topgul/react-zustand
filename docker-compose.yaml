@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  react-zustand:
+    image: react-zustand:1.0
+    container_name: react-zustand
+    ports:
+      - "4000:80"
+
+#  docker build -t react-zustand:1.0 .
